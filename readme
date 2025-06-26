@@ -1,0 +1,60 @@
+# 💼 Job Skill Analysis using LinkedIn Job Postings
+                (./dashboard_preview.jpeg)
+
+This project analyzes real LinkedIn job postings to identify **the most in-demand skills** in today's job market.  
+We used Python for data cleaning and analysis, and Tableau to design an interactive dashboard.
+
+---
+
+## 📊 Dashboard Preview
+
+📎 [Click here to view the dashboard (open HTML file locally)](./Job%20skill%20analysis%20_%20Tableau%20Public.html)
+
+🖼️ ![Dashboard Preview](./Job%20skill%20analysis%20_%20Tableau%20Public_files/4_3.png)
+
+---
+
+## 📁 Project Structure
+
+| File/Folder                                  | Description                                      |
+|----------------------------------------------|--------------------------------------------------|
+| `main.ipynb`                                  | Python notebook for EDA and preprocessing        |
+| `linkedin_skill_counts.csv / .xlsx`           | Cleaned dataset for Tableau                      |
+| `Job skill analysis _ Tableau Public.html`    | Final exported dashboard (interactive webpage)   |
+| `Job skill analysis _ Tableau Public_files/`  | Support files for the dashboard HTML             |
+
+---
+
+## 🔍 Key Insights
+
+- **Python**, **SQL**, and **Excel** are among the top in-demand technical skills.
+- **Communication** and **Project Management** are highly sought soft skills.
+- The job market emphasizes a **blend of tech + soft skills**.
+
+---
+
+## 🛠️ Tools Used
+
+- **Python** (Pandas, Seaborn)
+- **Tableau Public**
+- **GitHub**
+
+---
+
+## 📚 Dataset Source
+
+LinkedIn Job Postings Dataset  
+📎 [Kaggle Dataset](https://www.kaggle.com/datasets/arshkon/linkedin-job-postings)
+
+---
+
+## 🧠 Author
+
+**Divyanshi Sharma**  
+4th Year BTech – Data Science & AI/ML Student  
+🌐 [GitHub](https://github.com/Divyanshi88)
+
+---
+
+🎯 *This project was built to explore job market trends, improve data visualization skills, and tell a story using data.*
+
