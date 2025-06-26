@@ -1,6 +1,6 @@
 # 💼 Job Skill Analysis using LinkedIn Job Postings
               
-![Dashboard Preview](/images/dashboard_preview.jpeg)
+![Dashboard Preview](./images/dashboard_preview.jpeg)
 This project analyzes real LinkedIn job postings to identify **the most in-demand skills** in today's job market.  
 We used Python for data cleaning and analysis, and Tableau to design an interactive dashboard.
 
